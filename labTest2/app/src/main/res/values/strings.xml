@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">labTest2</string>
+    <string name="textView">Username</string>
+    <string name="password">password</string>
+    <string name="inputpassword">pass</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+</resources>
